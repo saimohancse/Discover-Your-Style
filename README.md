@@ -72,3 +72,5 @@ This is a web based application developed for lifestyle related in india.
 - CSS
 - Bootstrap
 - JavaScript
+
+For more Information visit website link - https://discoveryoursyle.azurewebsites.net/
