@@ -32,17 +32,25 @@ This is a web based application developed for lifestyle related in india.
  ![Screenshot 2022-10-18 145321](https://user-images.githubusercontent.com/96363503/196391825-297d3a5b-e9a9-4ff0-b2b6-86564142ca25.png)
  
  
+ 
+ 
 ### Techlifestyle -
 
 ![Screenshot 2022-10-18 145819](https://user-images.githubusercontent.com/96363503/196394937-e661fb66-6213-4b35-95a2-24356a6eb2a7.png)
+
+
 
 ### Fashion -
 
 ![Screenshot 2022-10-18 145918](https://user-images.githubusercontent.com/96363503/196394872-36513923-9b25-4b35-b594-0fcf9f239e84.png)
 
+
+
 ### Healthy lifestyle -
 
 ![Screenshot 2022-10-18 150721](https://user-images.githubusercontent.com/96363503/196394773-66e684cd-56aa-4bf5-be4c-c9a99f6928ce.png)
+
+
 
 
 ### Disclaimer -
@@ -50,7 +58,9 @@ This is a web based application developed for lifestyle related in india.
 ![Screenshot 2022-10-18 142445](https://user-images.githubusercontent.com/96363503/196384964-2cb376a3-98ad-4d3b-900f-5eee458125e6.png)
 
 
+
 ### Privacy policy -
+
 
 ![Screenshot 2022-10-18 142717](https://user-images.githubusercontent.com/96363503/196385376-eb482772-0666-4e08-ad3f-15601faa9947.png)
 
